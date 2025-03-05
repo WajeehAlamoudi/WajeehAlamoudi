@@ -5,7 +5,7 @@
 **🌟 Key Skills**
 <br><br>✅ Computer Vision & Image Processing✅ Parallel Processing & Multi-threading✅ AI Model Optimization & Deployment✅ Edge AI & Real-Time Processing<br><br>
 **📫 Connect With Me**<br><br>
-**💼 GitHub:** github.com/WajeehAlamoudi✉️ Email: wajeeh@outlook.com<br><br>Let's build the future of AI together! 🚀
+**💼 GitHub:** github.com/WajeehAlamoudi✉️ Email: wajeehalamoudi@outlook.com<br><br>Let's build the future of AI together! 🚀
 
 
 # 💻 Tech Stack:
